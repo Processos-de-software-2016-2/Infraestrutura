@@ -4,3 +4,4 @@ Responsável por prover toda a parte de infra necessária para que o sistema esc
 * [Danilo Damasceno](https://github.com/danilodamasceno)
 * [Nao Sou eu](https://github.com/naosoueu)
 * [Wesley Reuel Marques Silva](https://github.com/wreuel)
+* [Heráclito Medeiros Cesar Júnior](https://github.com/Heraclito-junior)
