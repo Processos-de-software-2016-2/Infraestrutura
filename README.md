@@ -20,7 +20,7 @@ Responsável por prover toda a parte de infra necessária para que o sistema esc
 
 ## Membros da Equipe
 * [Danilo Damasceno](https://github.com/danilodamasceno)
-* [Romildo Oliveira Souza Júnior](https://github.com/naosoueu)
+* [Romildo Oliveira](https://github.com/naosoueu)
 * [Wesley Reuel Marques Silva](https://github.com/wreuel)
 * [Heráclito Medeiros Cesar Júnior](https://github.com/Heraclito-junior)
 * [Joelson Pereira da Silva ](https://github.com/Joelsonpereirah)
