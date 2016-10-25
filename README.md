@@ -5,7 +5,7 @@ Responsável por prover toda a parte de infra necessária para que o sistema esc
 
 
 ##Plataforma de desenvolvimento
-  Máquinas virtuais Windows ou Linux ( a decidir ainda) para rodar os serviços.
+  Máquinas virtuais Windows ou Linux ( a decidir ainda) para rodar os serviços, as maquinas virtuais terão programas como Java, Python, navegador, banco de dados mysql, etc para realizar as suas funções.
 
 ##Como contribuir com projeto
   As primeira fase da contribuição será cada menbro da equipe estudar um pouco sobre  DevOps e como funciona as equipes de
